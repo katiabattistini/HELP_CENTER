@@ -1,0 +1,6 @@
+# Ignore arquivos CSV grandes
+*.csv
+*.pbix
+
+# Ignore arquivos de configuração sensíveis
+*.env
