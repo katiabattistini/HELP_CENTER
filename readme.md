@@ -52,19 +52,27 @@ O resultado do processo ETL é utilizado para gerar dashboards no Power BI, perm
 ## Principais insights
 
 1. **Dias com maior quantidade de atendimentos são os mesmos dias em que houveram atualizações no produto ("dia de deploy")**
-Impactos: Sobrecarga na área de atendimento e maior índice de insatisfação de clientes.
-Ações: Melhoria de comunicação entre as áreas de desenvolvimento, treinamento e atendimento. Melhoria nos processos na área de desenvolvimento com melhor aplicação de metodologia Ágil.
+
+    Impactos: Sobrecarga na área de atendimento e maior índice de insatisfação de clientes.
+
+    Ações: Melhoria de comunicação entre as áreas de desenvolvimento, treinamento e atendimento. Melhoria nos processos na área de desenvolvimento com melhor aplicação de metodologia Ágil.
 
 2. **Subcontagem de reincidência de atendimentos do mesmo cliente por falha no processo de padronização de contatos**
-Impactos: Atendentes diferentes atendiam o mesmo cliente, falhas no entendimento de necessidade de melhorias de processo do produto.
-Ações: Padronização de base de contatos por clientes, melhorias no fluxo de atendimentos para permitir continuidade e alinhamento de informações.
+
+    Impactos: Atendentes diferentes atendiam o mesmo cliente, falhas no entendimento de necessidade de melhorias de processo do produto.
+
+    Ações: Padronização de base de contatos por clientes, melhorias no fluxo de atendimentos para permitir continuidade e alinhamento de informações.
 
 3. **Sobrecarga e/ ou ociosidade de atendentes por distribuição de pessoas desalinhado com horários de maiores demandas** 
-Impactos: Atendentes mais experientes atendiam mais chamados para cobrir demandas, horários com menos chamados eram subnotificados.
-Ações: Redistribuição de atendentes equilibrando capacidade e demanda e melhor equilíbrio de senioridade.
 
-4.  **Principais assuntos de atendimentos estavam relacionadados a falha de treinamento de clientes**,
-Impactos: Ocupação de atendentes e treinamentos sem entendimento das necessidades do cliente.
-Ações: Melhoria de processos nas áreas de Vendas , remodelagem de Onboarding de Clientes e execução de treinamentos presenciais.
+    Impactos: Atendentes mais experientes atendiam mais chamados para cobrir demandas, horários com menos chamados eram subnotificados.
+
+    Ações: Redistribuição de atendentes equilibrando capacidade e demanda e melhor equilíbrio de senioridade.
+
+4.  **Principais assuntos de atendimentos estavam relacionadados a falha de treinamento de clientes**
+
+    Impactos: Ocupação de atendentes e treinamentos sem entendimento das necessidades do cliente.
+
+    Ações: Melhoria de processos nas áreas de Vendas , remodelagem de Onboarding de Clientes e execução de treinamentos presenciais.
 
 
